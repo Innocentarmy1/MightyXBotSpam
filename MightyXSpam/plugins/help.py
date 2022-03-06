@@ -34,10 +34,10 @@ async def help(event):
             Button.inline("• Extra •", data="extra"),
            ],
            [    
-            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/MightyXUpdates")
+            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RFCHUB")
            ],
            [
-           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MightyXSupport")
+           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/RFCHUBB")
            ],
            ],
            )              
@@ -67,7 +67,7 @@ ii) {hl}leave : Type in the Group bot will auto leave that group
 **Packspam**: Sticker Pack Spam
 i) {hl}packspam (replying to any sticker)
 
-**© @MightyXSupport**
+**© @RFCHUB**
 """
 
                  
@@ -96,7 +96,7 @@ i) {hl}dreplyraid <replying to user>
 ii) {hl}dreplyraid <username>
 
 
-**© @MightyXSupport**
+**© @RFCHUB**
 """
 
 spam_msg = f"""
@@ -125,7 +125,7 @@ i) {hl}pornspam <count>
 Command:
 i) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-** © @MightyXSupport**
+** © @RFCHUB**
 """                     
            
            
@@ -152,16 +152,16 @@ async def helpback(event):
             Button.inline("Extra", data="extra"),
            ],
            [    
-            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/MightyXUpdates")
+            Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RFCHUB")
            ],
            [
-           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MightyXSupport")
+           Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/RFCHUBB")
            ],
            ],
         )           
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own Bad boy Spam Bots !! @RFCHUB"
             )
         await event.answer(Alert, cache_time=0, alert=True)
       
@@ -189,7 +189,7 @@ async def help_spam(event):
             ) 
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own Bad Boy Spam Bots !! @RFCHUB"
             )
         await event.answer(Alert, cache_time=0, alert=True)
                  
@@ -216,7 +216,7 @@ async def help_raid(event):
             )  
      else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own Bad Boy Spam Bots !! @RFCHUB"
             )
         await event.answer(Alert, cache_time=0, alert=True)
        
@@ -244,7 +244,7 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSupport"
+                "Noob !! Make Your Own Bad Boy Spam Bots !! @RFCHUB"
             )
         await event.answer(Alert, cache_time=0, alert=True)
 
