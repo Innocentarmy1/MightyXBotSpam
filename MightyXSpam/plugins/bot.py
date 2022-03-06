@@ -40,8 +40,8 @@ async def alive(event):
                                   caption=mighty,
                                   buttons=[
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/MightyXUpdates"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/MightyXSupport")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RFCHub"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/RFCHUBB")
         ],
         [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/BeingMighty/MightyXBotSpam")
