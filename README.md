@@ -1,4 +1,4 @@
-Koi<p align="center">
+<p align="center">
   <img src="https://telegra.ph/file/17df2d8536474db7e9ee9.jpg"width="350"" alt="MightyXSpam Logo">
 </p>
 <h1 align="center">
