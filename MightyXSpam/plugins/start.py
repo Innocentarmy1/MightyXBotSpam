@@ -24,7 +24,7 @@ MigX_Button = [
         Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/rfchubb")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/BeingMighty/MightyXBotSpam")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Innocentarmy1/MightyXBotSpam")
         ]
         ]
         
